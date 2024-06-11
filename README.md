@@ -1,0 +1,2 @@
+# TELEGRAM_BOT_REGISTRATE_TO_CONFERENCE
+ bot for registration 
